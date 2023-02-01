@@ -1,0 +1,413 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.stay-healthy-stay {
+  position: absolute;
+  top: 25px;
+  left: 31px;
+  font-weight: 600;
+  display: inline-block;
+  width: 1830px;
+  height: 894px;
+}
+.tag-frame {
+  position: absolute;
+  top: 310px;
+  left: 98px;
+  width: 1607px;
+  height: 351px;
+  overflow: hidden;
+}
+.healit,
+.staying-healthy-is {
+  position: absolute;
+  display: inline-block;
+}
+.staying-healthy-is {
+  top: 553px;
+  left: 143px;
+  font-size: 48px;
+  font-family: var(--font-tiro-devanagari-hindi);
+  color: #efd5c8;
+  width: 1246px;
+  height: 267px;
+}
+.healit {
+  top: 28px;
+  left: 155px;
+  text-decoration: underline;
+  font-weight: 600;
+  width: 329px;
+  height: 120px;
+}
+.healit-wrapper,
+.logo-1-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.healit-wrapper {
+  width: 448px;
+  height: 148px;
+  overflow: hidden;
+  font-size: var(--font-size-base);
+}
+.logo-1-icon {
+  width: 138px;
+  height: 157px;
+  object-fit: cover;
+}
+.tag-frame-parent {
+  position: absolute;
+  top: 44px;
+  left: 0;
+  border-radius: 0 0 400px 0;
+  background-color: var(--color-gray);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 3378px;
+  height: 1229px;
+  overflow: hidden;
+  font-size: var(--font-size-lg);
+  color: var(--color-blueviolet);
+  font-family: var(--font-ibarra-real-nova);
+}
+.abstract-profile-photo-instagr {
+  position: absolute;
+  top: 276px;
+  left: 2331px;
+  border-radius: 600px;
+  width: 608px;
+  height: 641px;
+  object-fit: cover;
+}
+.feedback-one-1,
+.products-1-icon {
+  position: absolute;
+  top: 3103px;
+  left: 0;
+  width: 3381px;
+  height: 1197px;
+  object-fit: cover;
+}
+.products-1-icon {
+  top: 5958px;
+  left: 18px;
+  width: 3386px;
+  height: 1109px;
+}
+.about-us-1,
+.about-us-1-1 {
+  position: absolute;
+  left: 0;
+  object-fit: cover;
+}
+.about-us-1 {
+  top: 36px;
+  width: 3378px;
+  height: 1883px;
+  display: none;
+}
+.about-us-1-1 {
+  top: 0;
+  width: 3381px;
+  height: 1869px;
+}
+.link1 {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.link {
+  position: absolute;
+  top: 1364px;
+  left: 297px;
+  text-decoration: underline;
+  color: inherit;
+  display: inline-block;
+  width: 222px;
+  height: 184px;
+}
+.linkedin-logo-1 {
+  position: absolute;
+  top: 1372px;
+  left: 239px;
+  width: 338px;
+  height: 247px;
+  object-fit: cover;
+}
+.link2,
+.link4,
+.link6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  text-decoration: underline;
+  color: inherit;
+  display: inline-block;
+  width: 222px;
+  height: 136px;
+}
+.link4,
+.link6 {
+  left: 867px;
+}
+.link6 {
+  left: 1778px;
+}
+.linkedin-id {
+  position: absolute;
+  top: 1375px;
+  left: 1104px;
+  width: 2178px;
+  height: 217px;
+  overflow: hidden;
+}
+.linkedin-logo-2,
+.linkedin-logo-3,
+.linkedin-logo-4 {
+  position: absolute;
+  top: 14px;
+  left: 1755px;
+  width: 338px;
+  height: 247px;
+  object-fit: cover;
+}
+.linkedin-logo-2,
+.linkedin-logo-3 {
+  left: 0;
+}
+.linkedin-logo-3 {
+  left: 850px;
+}
+.about-us,
+.linkedin-logo-4-parent {
+  position: absolute;
+  top: 1364px;
+  left: 1052px;
+  width: 2119px;
+  height: 198px;
+  overflow: hidden;
+}
+.about-us {
+  top: 10586px;
+  left: 3px;
+  width: 3378px;
+  height: 1919px;
+  font-size: var(--font-size-base);
+  color: var(--color-midnightblue);
+  font-family: var(--font-space-grotesk);
+}
+.p-flow-1-icon,
+.vivalyf-page-1 {
+  position: absolute;
+  top: 1756px;
+  left: 0;
+  width: 3378px;
+  height: 1790px;
+  object-fit: cover;
+}
+.p-flow-1-icon {
+  top: 0;
+  width: 3381px;
+  height: 1882px;
+}
+.place-an-order,
+.place-an-order1 {
+  position: absolute;
+  top: 3128px;
+  left: 1789px;
+  text-decoration: underline;
+  color: inherit;
+  display: inline-block;
+  width: 1029px;
+}
+.place-an-order1 {
+  top: 1380px;
+  left: 509px;
+}
+.products {
+  position: absolute;
+  top: 7067px;
+  left: 0;
+  width: 3378px;
+  height: 3519px;
+  overflow: hidden;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-space-grotesk);
+}
+.report-1-icon {
+  position: absolute;
+  top: 92px;
+  left: 40px;
+  width: 3341px;
+  height: 2006px;
+  object-fit: cover;
+}
+.click-here,
+.upload-here {
+  position: absolute;
+  top: 1558px;
+  left: 2181px;
+  text-decoration: underline;
+  color: inherit;
+}
+.upload-here {
+  top: 922px;
+  left: 1438px;
+}
+.connect-us-1,
+.reports {
+  position: absolute;
+  left: 0;
+}
+.reports {
+  top: 3950px;
+  width: 3381px;
+  height: 2050px;
+  overflow: hidden;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-space-grotesk);
+}
+.connect-us-1 {
+  top: 84px;
+  width: 3378px;
+  height: 1989px;
+  object-fit: cover;
+}
+.insta,
+.link8 {
+  position: absolute;
+  top: 1618px;
+  left: 2022px;
+  text-decoration: underline;
+  color: inherit;
+  display: inline-block;
+  width: 273px;
+  height: 189px;
+}
+.insta {
+  left: 2295px;
+  font-size: var(--font-size-base);
+  width: 441px;
+  height: 238px;
+}
+.connect-logo-1 {
+  position: absolute;
+  top: 1455px;
+  left: 1886px;
+  width: 1260px;
+  height: 379px;
+  object-fit: cover;
+}
+.contact-us {
+  position: absolute;
+  top: 12395px;
+  left: 0;
+  width: 3378px;
+  height: 2031px;
+  overflow: hidden;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray);
+  font-family: var(--font-space-grotesk);
+}
+.awareness,
+.doctors-care,
+.exercise,
+.home,
+.medicines,
+.yoga {
+  position: absolute;
+  top: 1073px;
+  left: 423px;
+  display: inline-block;
+  width: 229px;
+  height: 90px;
+}
+.awareness,
+.doctors-care,
+.exercise,
+.medicines,
+.yoga {
+  left: 1553px;
+  width: 448px;
+}
+.awareness,
+.exercise,
+.medicines,
+.yoga {
+  top: 1074px;
+  left: 1367px;
+  width: 228px;
+}
+.awareness,
+.exercise,
+.medicines {
+  left: 682px;
+  width: 364px;
+}
+.awareness,
+.exercise {
+  top: 1073px;
+  left: 2001px;
+  width: 396px;
+  height: 91px;
+}
+.exercise {
+  top: 1074px;
+  left: 1048px;
+  width: 287px;
+  height: 90px;
+}
+.abstract-profile-photo-instagr1 {
+  position: absolute;
+  top: 1042px;
+  left: 195px;
+  border-radius: 253px;
+  width: 133px;
+  height: 153px;
+  object-fit: cover;
+}
+.nav-bar {
+  border: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 1074px;
+  left: 341px;
+  width: 2424px;
+  height: 199px;
+  overflow: hidden;
+  opacity: 0.3;
+}
+.home-3-1 {
+  position: absolute;
+  top: 1282px;
+  left: 0;
+  width: 3436px;
+  height: 1821px;
+  object-fit: cover;
+}
+.start-here {
+  position: absolute;
+  top: 2624.49px;
+  left: 439.64px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-space-grotesk);
+  color: var(--color-black);
+  text-decoration: none;
+  transform: rotate(-1.34deg);
+  transform-origin: 0 0;
+}
+.desktop-1 {
+  position: relative;
+  background-color: var(--color-gray);
+  width: 100%;
+  height: 14698px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+  font-family: var(--font-ledger);
+}

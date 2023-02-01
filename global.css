@@ -1,0 +1,19 @@
+:root {
+  /* fonts */
+  --font-space-grotesk: "Space Grotesk";
+  --font-ledger: Ledger;
+  --font-ibarra-real-nova: "Ibarra Real Nova";
+  --font-tiro-devanagari-hindi: "Tiro Devanagari Hindi";
+
+  /* font sizes */
+  --font-size-sm: 64px;
+  --font-size-base: 96px;
+  --font-size-lg: 128px;
+
+  /* Colors */
+  --color-gray: #101728;
+  --color-black: #000;
+  --color-white: #fff;
+  --color-midnightblue: #120535;
+  --color-blueviolet: #9340ff;
+}
